@@ -8,7 +8,7 @@ Dieses Projekt klassifiziert verschiedene Blumensorten.
 |---------------|-----|
 | Huggingface   | [Huggingface Space](https://huggingface.co/spaces/lautenad/flower-classifier) |
 | Model Page    | [Huggingface Model Page](https://huggingface.co/spaces/lautenad/flower-classifier) |
-| Code          | [GitHub Repository](https://github.com/lautenad/flower-classifier) |
+| Code          |  https://drive.switch.ch/index.php/s/KR61bLUdbGsMK9q |
 
 ## Labels
 Die verschiedenen Sorten sind:  
